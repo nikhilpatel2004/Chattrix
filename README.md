@@ -47,7 +47,7 @@
 ## 📸 App Screenshots
 ### 🔹 Splash Screen
 ![Splash Screenhttps]  
-![Uploading WhatsApp Image 2025-05-03 at 20.41.56_0e48bd0b.jpg…]()
+![](https://github.com/user-attachments/assets/d20eecf2-df8e-4029-a19d-468bc96c4365)
 
 
 
@@ -57,7 +57,8 @@
 
 ### 🔹 Real-Time Chat Screen
 ![Chat Screen] 
-![Uploading WhatsApp Image 2025-05-03 at 20.41.57_bb406e16.jpg…]()
+
+![W](https://github.com/user-attachments/assets/34e90552-7bff-4e5c-9627-8ed1d154526d)
 
 
 ### 🔹 AI Chatbot Interface
