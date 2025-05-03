@@ -24,7 +24,7 @@
 ---
 
 ## 🛠️ Technologies Used
-- **Java (Android)**
+- **Kotlin (Android)**
 - **Firebase** for:
   - Authentication
   - Realtime Database
@@ -47,7 +47,8 @@
 ## 📸 App Screenshots
 ### 🔹 Splash Screen
 ![Splash Screenhttps]  
-(https://github.com/user-attachments/assets/3f998137-a5f3-491c-9cdf-4a8bc3f0658f)
+![Uploading WhatsApp Image 2025-05-03 at 20.41.56_0e48bd0b.jpg…]()
+
 
 
 ### 🔹 Login Screen
@@ -56,7 +57,8 @@
 
 ### 🔹 Real-Time Chat Screen
 ![Chat Screen] 
-(https://github.com/user-attachments/assets/9050e2c6-d819-4770-9410-2c3574482038)
+![Uploading WhatsApp Image 2025-05-03 at 20.41.57_bb406e16.jpg…]()
+
 
 ### 🔹 AI Chatbot Interface
 ![Chatbot Screen](https://github.com/user-attachments/assets/71289570-1bc7-44b5-8cad-f671a937f9ae)
