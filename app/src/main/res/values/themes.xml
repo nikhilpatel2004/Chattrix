@@ -1,0 +1,14 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Base.Theme.Chattrix" parent="Theme.AppCompat.Light">
+        <!-- Customize your light theme here. -->
+        <!-- Set primary color -->
+        <item name="colorAccent">@color/colorAccent</item>
+        <!-- Set accent color -->
+    </style>
+
+    <style name="Theme.Chattrix" parent="Base.Theme.Chattrix">
+        <!-- Additional customizations can go here -->
+        <item name="android:windowBackground">@color/white</item> <!-- Example: setting a background color -->
+    </style>
+</resources>

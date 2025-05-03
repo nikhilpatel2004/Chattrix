@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="blue"> #0066FF</color>
+    <color name="colorAccent">#03DAC5</color>
+    <color name="your_secondary_color">#03DAC5</color>
+
+
+    <!-- Example: Set the desired color -->
+
+
+
+
+
+</resources>
