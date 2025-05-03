@@ -17,10 +17,6 @@
 ### 🤖 AI Chatbot
 - Intelligent AI chatbot assistant for quick replies, greetings, and help.
 
-### 🖼️ Profile Image Upload
-- Upload and update profile pictures using Firebase Storage.
-- Displayed on the chat and profile screens.
-
 ### 🎨 Beautiful User Interface
 - Custom splash screen with logo and tagline.
 - Clean login and chat interfaces based on Material Design principles.
@@ -55,13 +51,16 @@
 
 
 ### 🔹 Login Screen
-![Login Screen](https://github.com/username/repository/blob/main/screenshots/login_screen.jpg?raw=true)
+![Login Screen](https://github.com/user-attachments/assets/a519da3b-169c-454d-9344-3c80407264e6)
+
 
 ### 🔹 Real-Time Chat Screen
-![Chat Screen](https://github.com/username/repository/blob/main/screenshots/chat_screen.jpg?raw=true)
+![Chat Screen] 
+(https://github.com/user-attachments/assets/9050e2c6-d819-4770-9410-2c3574482038)
 
 ### 🔹 AI Chatbot Interface
-![Chatbot Screen](https://github.com/username/repository/blob/main/screenshots/chatbot_screen.jpg?raw=true)
+![Chatbot Screen](https://github.com/user-attachments/assets/71289570-1bc7-44b5-8cad-f671a937f9ae)
+
 
 > 📌 Place your screenshots in the `screenshots` folder and update the filenames above.
 
