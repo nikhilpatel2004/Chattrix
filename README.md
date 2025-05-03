@@ -50,7 +50,9 @@
 
 ## 📸 App Screenshots
 ### 🔹 Splash Screen
-![Splash Screen](WhatsApp Image 2025-05-03 at 20.41.56_0e48bd0b.jpg)
+![Splash Screenhttps]  
+(https://github.com/user-attachments/assets/3f998137-a5f3-491c-9cdf-4a8bc3f0658f)
+
 
 ### 🔹 Login Screen
 ![Login Screen](https://github.com/username/repository/blob/main/screenshots/login_screen.jpg?raw=true)
