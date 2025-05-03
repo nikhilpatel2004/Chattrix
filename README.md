@@ -1,6 +1,6 @@
 # Chattrix - Android Chat Application
 
-**Chattrix** is a modern Android chat application with **real-time messaging** and an integrated **AI chatbot assistant**. Built using Firebase and Java, the app offers a secure login system, seamless real-time communication, and smart chatbot interaction — all with a clean and responsive UI.
+**Chattrix** is a modern Android chat application built using **Java** and **Firebase**. It includes **real-time messaging** and an integrated **AI chatbot assistant**, providing a secure and seamless chat experience.
 
 ---
 
@@ -11,27 +11,25 @@
 - Email and password-based login.
 
 ### 💬 Real-time Chat System
-- Chat with friends in real-time using Firebase Realtime Database.
-- Smooth and fast messaging interface with live updates.
+- Real-time messaging with Firebase Realtime Database.
+- Smooth, fast, and live chat interface.
 
-### 🤖 Built-in AI Chatbot
-- Interact with an intelligent chatbot assistant.
-- Provides quick replies, greetings, help, and more.
+### 🤖 AI Chatbot
+- Intelligent AI chatbot assistant for quick replies, greetings, and help.
 
 ### 🖼️ Profile Image Upload
 - Upload and update profile pictures using Firebase Storage.
-- Displayed on chat and profile screens.
+- Displayed on the chat and profile screens.
 
 ### 🎨 Beautiful User Interface
-- Animated custom splash screen with logo and tagline.
-- Sleek login and chat interfaces based on Material Design principles.
+- Custom splash screen with logo and tagline.
+- Clean login and chat interfaces based on Material Design principles.
 
 ---
 
 ## 🛠️ Technologies Used
-
 - **Java (Android)**
-- **Firebase**
+- **Firebase** for:
   - Authentication
   - Realtime Database
   - Storage
@@ -42,56 +40,50 @@
 ---
 
 ## 📲 Installation Guide
-
 1. Open the project in **Android Studio**.
 2. Set up Firebase in your project.
-   - Add your `google-services.json` in the `app/` directory.
+   - Add your `google-services.json` file in the `app/` directory.
 3. Sync the project with Gradle.
 4. Run the app on your Android device or emulator.
 
 ---
 
 ## 📸 App Screenshots
-
 ### 🔹 Splash Screen
-![Splash Screen]("C:\Users\nikhi\Downloads\WhatsApp Image 2025-05-03 at 20.41.56_0e48bd0b.jpg")
+![Splash Screen](WhatsApp Image 2025-05-03 at 20.41.56_0e48bd0b.jpg)
 
 ### 🔹 Login Screen
-![Login Screen]("C:\Users\nikhi\Downloads\WhatsApp Image 2025-05-03 at 20.41.56_76153a81.jpg")
+![Login Screen](https://github.com/username/repository/blob/main/screenshots/login_screen.jpg?raw=true)
 
 ### 🔹 Real-Time Chat Screen
-!("C:\Users\nikhi\Downloads\WhatsApp Image 2025-05-03 at 20.41.57_bb406e16.jpg")
+![Chat Screen](https://github.com/username/repository/blob/main/screenshots/chat_screen.jpg?raw=true)
 
 ### 🔹 AI Chatbot Interface
-![Chatbot Screen]("C:\Users\nikhi\Downloads\WhatsApp Image 2025-05-03 at 20.41.57_14306430.jpg")
+![Chatbot Screen](https://github.com/username/repository/blob/main/screenshots/chatbot_screen.jpg?raw=true)
 
-> 📌 Place your screenshots in the `screenshots` folder and match the filenames above.
+> 📌 Place your screenshots in the `screenshots` folder and update the filenames above.
 
 ---
 
 ## 🤝 Contribution
-
-We welcome contributions to improve Chattrix!
+We welcome contributions to improve **Chattrix**!
 
 - Fork the repository
 - Create a new branch
 - Commit your changes
 - Open a pull request
 
-Found a bug or want to request a feature? Feel free to open an issue.
+Found a bug or have a feature request? Feel free to open an issue.
 
 ---
 
 ## 📄 License
-
 This project is licensed under the **MIT License**.
 
 ---
 
 ## 🙏 Acknowledgments
-
 - **Firebase** for backend support
 - **Android Developer Docs**
 - **Material Design** guidelines
 - **AI APIs** or logic used in the chatbot (optional: mention if any specific AI API is used)
-
